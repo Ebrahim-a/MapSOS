@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southlake Regional Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.0603289,-79.4516139]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glox General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.0610612,-79.4510175]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "Name": "Markham Stouffville Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.8820215,-79.2480052]
+      }
+    }
+
+  ]
+}

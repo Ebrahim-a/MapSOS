@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ontario Provincial Police - Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9660087,-79.4603926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "York Regional Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.052775, -79.420286]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "Name": "York Regional Police Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.008433,-79.4152791]
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "Name": "York Regional Police Richmond Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.8692026,-79.4425227]
+      }
+    }
+
+  ]
+}
